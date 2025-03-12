@@ -34,3 +34,28 @@ An empty tag (also called a self-closing tag) is an HTML tag that does not have 
 
 ![alt text](top_10_semantic_elements.png)
 
+<!-- can HTML tags be written in Uppercase? -->
+
+- yes, html tag is not case sensitive       therefore it can be written in uppercase,lowercase, or a combination of both
+
+- but it is not recommmended as per standards
+
+<!-- what are the 3 diff b/w block-level and inline elements? -->
+
+<!-- block level -->
+
+1. creates "blocks" of content
+2. starts on new line
+3. takes up the whole line 
+4. eg: div,p,h1,ul,li,table,form
+
+<!-- inline elements -->
+
+1. inline elements length depends on their content length
+2. does not start on new line
+3. cannot set width & height for inline
+4. eg: span,a,strong,em,img ,input,br
+
+<!-- 20 block level elements -->
+
+![alt text](<block level elements.png>)

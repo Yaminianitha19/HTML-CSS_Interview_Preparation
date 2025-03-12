@@ -59,3 +59,5 @@ An empty tag (also called a self-closing tag) is an HTML tag that does not have 
 <!-- 20 block level elements -->
 
 ![alt text](<block level elements.png>)
+
+![alt text](block_level_elements.png)

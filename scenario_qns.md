@@ -9,3 +9,4 @@
 You can specify multiple classes for a single element by separating them with spaces in the class attribute.
 
 incase of multiple classes with same style attributes, style defined in the last class will take precedence
+

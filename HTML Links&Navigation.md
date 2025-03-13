@@ -50,6 +50,10 @@ A fragment identifier is the part of a URL after #. It is used to navigate to a 
 
 <!-- what is the purpose of the <base> element in html? -->
 
+  - the <base> element in html is used to specify a base url for relative URLs within a document.
+  - the <base> element is typically placed within the <head> section.
+
+
 
 
 
